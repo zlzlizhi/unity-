@@ -26,8 +26,8 @@ public class FaceFusion : MonoBehaviour
     string Datatime;//yyyymmdd
    // public Image[] image;
     string url = "https://visual.volcengineapi.com/?Action=FaceSwap&Version=2020-08-26";
-    string AccessKeyID = "AKLTYzMwMmY3M2I3MTcyNDgwNjk3ODNhNDZjMGRiZjJjYjg";
-    string kSecret = "WW1NNU1UZzNPVGxqWVdFNU5HUmlPRGcwTnpjeE9EbGpNMk5qTm1abU9HUQ==";
+    string AccessKeyID = "";
+    string kSecret = "";
    // public RawImage[] rawImages;
     public byte[] postdata;
 
